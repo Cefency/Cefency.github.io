@@ -1,1 +1,1 @@
-[{"title":"my first blog","date":"2018.01.27","uri":"2018/01/27/my-first-blog/","excerpt":""}]
+[{"title":"my first blog","date":"2018.01.27","uri":"2018/01/27/my-first-blog/","excerpt":""},{"title":"Sublime编辑器","date":"2018.01.28","uri":"2018/01/28/sublime-editor/","excerpt":""}]
