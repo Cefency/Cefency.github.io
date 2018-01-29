@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cefency.github.io/"/>
-  <updated>2018-01-29T09:48:57.824Z</updated>
+  <updated>2018-01-29T09:59:28.056Z</updated>
   <id>https://cefency.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://cefency.github.io/2018/01/28/sublime-editor/"/>
     <id>https://cefency.github.io/2018/01/28/sublime-editor/</id>
     <published>2018-01-28T13:42:27.000Z</published>
-    <updated>2018-01-29T09:48:57.824Z</updated>
+    <updated>2018-01-29T09:59:28.056Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="安装-Package-Control"><a href="#安装-Package-Control" class="headerlink" title="安装 Package Control"></a>安装 Package Control</h3><hr><p>使用快捷键 <strong>ctrl + `</strong>打开Sublime的控制台 ,或者选择 <strong>View &gt; Show Console</strong></p><p><a href="https://packagecontrol.io/installation" target="_blank" rel="noopener">这里获取安装代码</a></p><h3 id="安装-MarkdownEditing"><a href="#安装-MarkdownEditing" class="headerlink" title="安装 MarkdownEditing"></a>安装 MarkdownEditing</h3><hr><p>使用<strong>ctrl + shift + p</strong>进入Sublime命令面板，输入<strong>package install</strong>在列表中选择<strong>install package</strong>。可能会有一些延时。然后找到<strong>MarkdownEditing</strong>回车安装。</p><h3 id="安装-OmniMarkupPreviewer"><a href="#安装-OmniMarkupPreviewer" class="headerlink" title="安装 OmniMarkupPreviewer"></a>安装 OmniMarkupPreviewer</h3><hr><p>OmniMarkupPreviewer可以预览渲染效果。</p><h2 id="ctrl-alt-o-在浏览器中预览"><a href="#ctrl-alt-o-在浏览器中预览" class="headerlink" title="- ctrl + alt + o: 在浏览器中预览"></a>- ctrl + alt + o: 在浏览器中预览</h2><p>推荐一款自己喜欢的编辑器：<a href="https://atom.io/" target="_blank" rel="noopener">Atom</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="安装-Package-Control"><a href="#安装-Package-Control" class="headerlink" title="安装 Package Control"></a>安装 Package Control</h3><p>使用快捷键 <strong>ctrl + `</strong>打开Sublime的控制台 ,或者选择 <strong>View &gt; Show Console</strong></p><p><a href="https://packagecontrol.io/installation" target="_blank" rel="noopener">这里获取安装代码</a></p><h3 id="安装-MarkdownEditing"><a href="#安装-MarkdownEditing" class="headerlink" title="安装 MarkdownEditing"></a>安装 MarkdownEditing</h3><p>使用<strong>ctrl + shift + p</strong>进入Sublime命令面板，输入<strong>package install</strong>在列表中选择<strong>install package</strong>。可能会有一些延时。然后找到<strong>MarkdownEditing</strong>回车安装。</p><h3 id="安装-OmniMarkupPreviewer"><a href="#安装-OmniMarkupPreviewer" class="headerlink" title="安装 OmniMarkupPreviewer"></a>安装 OmniMarkupPreviewer</h3><p>OmniMarkupPreviewer可以预览渲染效果。</p><ul><li>ctrl + alt + o: 在浏览器中预览</li></ul><hr><ul><li>推荐一款自己喜欢的编辑器：<a href="https://atom.io/" target="_blank" rel="noopener">Atom</a></li></ul>]]></content>
     
     <summary type="html">
     
